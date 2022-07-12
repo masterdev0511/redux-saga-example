@@ -16,8 +16,8 @@
 ## Quick Start
 
 ```shell
-$ git clone https://github.com/masterdev0511/redux-saga-example.git
-$ cd redux-saga-example
+$ git clone https://github.com/r-park/todo-redux-saga.git
+$ cd todo-redux-saga
 $ npm install
 $ npm start
 ```
